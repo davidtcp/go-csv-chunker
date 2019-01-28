@@ -8,8 +8,6 @@ import (
   "os"
 )
 
-// CSV_CHUNKER_EXTENSION
-
 const (
   newLine                    = "\n"
   envKeyChunkFilenamePrefix  = `CSV_CHUNKER_FILENAME_PREFIX`
